@@ -8,7 +8,7 @@ Minimalistic Chrome extension - bypass for blur check on testportal.pl
 
 Join our Discord! https://discord.gg/sewrmBdqRU
 
-[<img width="250" src="https://i.imgur.com/zdDRPqZ.png" alt="testportal">](https://i.imgur.com/zdDRPqZ.png)
+[<img width="250" src="https://i.imgur.com/racKyjq.png" alt="testportal">](https://i.imgur.com/racKyjq.png)
 
 ## Usage
 
